@@ -12,4 +12,4 @@ def run_guessing_game
   puts "Goodbye!" if input == "exit"
 end
 
-run_guessing_game
+# run_guessing_game
