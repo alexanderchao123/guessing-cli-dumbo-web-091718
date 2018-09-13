@@ -5,3 +5,5 @@ def run_guessing_game
   require 'pry'; binding.pry
   puts "Goodbye!" if input == "exit"
 end
+
+run_guessing_game
